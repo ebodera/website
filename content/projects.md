@@ -3,7 +3,7 @@ title = "Projects"
 slug = "projects"
 +++
 
-## sociotrader [{{< fab github >}}](https://github.com/ebodera/sociotrader)
+## trade-bot [{{< fab github >}}](https://github.com/ebodera/trade-bot)
 {{< fas code >}} Go, Alpaca
 
 Bot that trades stocks using Alpaca API based on custom algorithms and social media sentinement, written in Go.
