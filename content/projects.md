@@ -6,7 +6,7 @@ slug = "projects"
 ## trade-bot [{{< fab github >}}](https://github.com/ebodera/trade-bot)
 {{< fas code >}} Go, Alpaca
 
-Bot that trades stocks using Alpaca API based on custom algorithms and social media sentinement, written in Go.
+Bot that trades stocks using Alpaca API and custom algorithms, written in Go.
 
 ## pctf [{{< fab github >}}](https://github.com/ebodera/pctf)
 {{< fas code >}} Python, angr, pwntools, scapy
